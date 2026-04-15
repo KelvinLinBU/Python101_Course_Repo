@@ -1,0 +1,5 @@
+print("Welcome to lecture 13 of my Learn Python series!")
+print("We will be covering the concept of encapsulation which is also one of the key principles of OOP")
+print("Object Oriented Programming or OOP is ESSENTIAL for SWEing!")
+print("As always, the course repository will be linked in the description.")
+print("I recommend watching the earlier episodes before this for the best learning experience!")
